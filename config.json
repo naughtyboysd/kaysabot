@@ -1,12 +1,12 @@
 {
-    "ownerNumber": "6285921969852@s.whatsapp.net",
-    "ownerName": "Fadly ID",
-    "botName": "Kaysa Bot",
-    "footer": "Fadly ID",
-    "sessionName": "kayy-md",
+    "ownerNumber": "6288245578588@s.whatsapp.net",
+    "ownerName": "Adit",
+    "botName": "VioonzBot",
+    "footer": "@9MercyDev (Adit Quarters)",
+    "sessionName": "session",
     "pathimg": "./media/logo.jpg",
     "lolkey": "Atakbotz",
-    "instagram": "https://instagram.com/iamfadlyid_",
+    "instagram": "https://instagram.com/adit.hda",
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
@@ -14,7 +14,7 @@
         "user": 15
     },
     "sticker": {
-        "packname": "Created By",
-        "author": "Fadly ID"
+        "packname": "VioonzBot",
+        "author": "By Adit"
     }
 }
